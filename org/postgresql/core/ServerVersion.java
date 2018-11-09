@@ -27,6 +27,7 @@ public enum ServerVersion implements Version {
     v9_3("9.3.0"),
     v9_4("9.4.0"),
     v9_5("9.5.0"),
+    v9_6("9.6.0"),
 
     ;
 
